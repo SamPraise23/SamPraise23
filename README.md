@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SamPraise23
-- 👀 I’m interested in Flutter, Dart and Web development
-- 🌱 I’m currently learning flutter and dart
-- 💞️ I’m looking to collaborate on app develpment
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning Python and Networking
 - 📫 How to reach me samuelpraiseg@gmail.com/+2349095051206
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact 
